@@ -12,7 +12,7 @@
     "author": "argenos",
     "description": "Additional hotkeys to do common things.",
     "repo": "argenos/hotkeysplus-obsidian"
-  },
+  }
   {
     "id": "obsidian-git",
     "name": "Git",
@@ -29783,5 +29783,12 @@
     "author": "Dan Seaman",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Kanban view over markdown-based project backlog and milestones. Reads bold-key metadata directly, lets you drag cards between status columns, edit enums inline, and writes changes back",
     "repo": "dseaman/Kandyban"
+  },
+  {
+    "id": "obseidian-gumroad-plugin-",
+    "name": "Client HTML Export",
+    "author": "sexybdy",
+    "description": "Export your active note into a beautiful, styled HTML document for clients.",
+    "repo": "sexybdy/obseidian-gumroad-plugin-"
   }
 ]
