@@ -29785,10 +29785,10 @@
     "repo": "dseaman/Kandyban"
   },
   {
-    "id": "obseidian-gumroad-plugin-",
-    "name": "Client HTML Export",
+    "id": "folio-export",
+    "name": "Folio Export",
     "author": "sexybdy",
-    "description": "Export your active note into a beautiful, styled HTML document for clients.",
-    "repo": "sexybdy/obseidian-gumroad-plugin-"
+    "description": "This plugin allows you to easily export one or multiple Markdown notes from your Obsidian vault into a single beautifully styled HTML document.",
+    "repo": "sexybdy/obsidian-gumroad-plugin-"
   }
 ]
